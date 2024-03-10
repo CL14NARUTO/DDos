@@ -25,7 +25,7 @@
 </div>
 
 ## Menu
-![hasoki](https://anonyviet.com/wp-content/uploads/2022/05/Screenshot-153.png)
+![NARUTO](https://anonyviet.com/wp-content/uploads/2022/05/Screenshot-153.png)
 ## Methods
 
 ```sh
